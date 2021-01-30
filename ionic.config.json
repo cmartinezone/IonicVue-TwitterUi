@@ -1,0 +1,7 @@
+{
+  "name": "ionicvue-twitter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
